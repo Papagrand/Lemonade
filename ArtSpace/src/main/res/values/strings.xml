@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="munk_name">Edward Munk</string>
+    <string name="wrubel_name">Michael Wrubel</string>
+    <string name="vereshyagin_name">Vasily Vereshyagin</string>
+    <string name="klimt_name">Gustav Klimt</string>
+    <string name="lemon_squeeze">Keep tapping the lemon to squeeze it</string>
+    <string name="lemon_drink">Tap the lemonade to drink it</string>
+    <string name="lemon_empty_glass">Tap the empty glass to start again</string>
+    <string name="edward_munk_content_description">Munk</string>
+    <string name="michael_wrubel_content_description">Wrubel</string>
+    <string name="vasily_vereshyagin_content_description">Vereshyagin</string>
+    <string name="gustav_klimt_content_description">Klimt</string>
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemonade_content_description">Glass of lemonade</string>
+    <string name="empty_glass_content_description">Empty glass</string>
+</resources>

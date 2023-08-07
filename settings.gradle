@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Lemonade"
 include ':app'
 include ':TipTime'
+include ':ArtSpace'
